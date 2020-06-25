@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+background: url(OCN_Education_Banner2.jpg) no-repeat;
+background-size: 100%; 
+color: azure;
+}   
+menu{
+    text-align: center;
+}
+div.osnov{
+    padding-top: 50px;
+    font-family: 'Roboto', sans-serif;
+
+    color: aliceblue;
+}
+div.photo{
+    border: aqua;
+}
+.back{
+    color: black;
+    border: 4px double black;;
+    margin-top: 316px;
+    padding-top: 31px;
+    background-color: rgb(41, 60, 88);
+}
+.center{
+    color:  rgba(223, 223, 223, 0.74);
+}
+div.back-info{
+    color: black;
+    border: 4px double black;;
+    margin-top: 201px;
+    padding-top: 46px;
+    background-color: rgb(41, 60, 88);
+}
+div.gram{
+    padding-top: 50px;
+}
+div.back-gram{
+    color: black;
+    border: 4px double black;;
+    margin-top: 224px;
+    padding-top: 46px;
+    background-color: rgb(41, 60, 88);
+}
+.back-contact{
+    color: black;
+    border: 4px double black;;
+    margin-top: 61px;
+    padding-top: 46px;
+    background-color: rgb(41, 60, 88);
+}
+.dip{
+    border:  4px double black;;
+    margin-top: 50px;
+}
+div.back-stud{
+    color: black;
+    border: 4px double black;;
+    margin-top: 416px;
+    padding-top: 46px;
+    background-color: rgb(41, 60, 88);
+}
